@@ -1,0 +1,2 @@
+1. to change the dollar symbol go to item.jsx file and change the dollar sign to ruppes easy peasy. 
+2. 
