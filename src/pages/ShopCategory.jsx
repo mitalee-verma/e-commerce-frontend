@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import './CSS/ShopCategory.css'
 import {ShopContext } from '../Context/ShopContext'
-import dropdown_icon from '../components/Assests/dropdown_icon.png'
+// import dropdown_icon from '../components/Assests/dropdown_icon.png'
 import Item from '../components/Items/Item'
 import { RiArrowDropDownLine } from "react-icons/ri";
 
